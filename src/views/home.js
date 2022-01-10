@@ -43,7 +43,7 @@ const Home = () => {
                 />
               </span>
               <span>
-                system and all the work that make this design available.
+                system and all the work that make this design available. yes
               </span>
             </span>
             <div className={styles['container02']}>
